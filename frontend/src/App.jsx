@@ -1,8 +1,10 @@
+import Login from "./pages/Login"
+
 function App() {
   return (
-    <h1 className="text-6xl font-bold text-red-500">
-      Coaching App 🚀
-    </h1>
+    <main>
+      <Login/>
+    </main>
   )
 }
 
